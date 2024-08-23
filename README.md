@@ -31,7 +31,7 @@ I am a passionate developer specializing in Android and Flutter development. At 
 - Diving deeper into Jetpack Compose.
 
 ### 🎯 My Motto
-**Develop Innovation**
+**Develop Innovative**
 
 ---
 
